@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  go_router: ^14.2.1
+  shared_preferences: ^2.2.3
+  connectivity_plus: ^6.1.0
+  so_simple_splash: ^0.0.1
 
 dev_dependencies:
   flutter_test:
